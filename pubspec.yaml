@@ -1,0 +1,52 @@
+name: yitirdim
+description: A new Flutter project.
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  get: ^4.6.4
+  flutter_iconly:
+  flutter_svg: ^2.0.9
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  share:
+  custom_top_navigator: ^0.0.4
+  intl:
+  image_picker: 0.8.5+3
+  permission_handler: ^10.4.1
+  url_launcher: ^6.2.1
+  lottie: ^2.3.2
+  carousel_slider: ^4.2.1
+  shimmer: ^3.0.0
+  dio:
+  restart_app: ^1.1.0
+  pull_to_refresh: ^2.0.0
+  cached_network_image:
+  shared_preferences: ^2.2.2
+  
+ 
+
+  
+  
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/svg_icons/
+    - assets/images/
+    - assets/animations/
+    - assets/animations/lottie/
+  fonts:
+    - family: Comfortaa-SemiBold
+      fonts:
+        - asset: assets/fonts/Comfortaa-SemiBold.ttf 

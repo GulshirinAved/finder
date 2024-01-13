@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144633825547",
+    "project_id": "pushnotification-afcbc",
+    "storage_bucket": "pushnotification-afcbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144633825547:android:116648b312ebf858e17a0e",
+        "android_client_info": {
+          "package_name": "com.example.yitirdim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCULDlYYxQMz0l8v_lh_bjILYKmxNarHas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
